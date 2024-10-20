@@ -1,6 +1,7 @@
 # Info
 
 This is a mario odyssey mod that makes it so that every moon that you collect makes mario faster. you start off at a very slow speed but after you collect moon you will everytually become alot faster than normal. This mod is not finished but it hopefully will be soon.
+Thanks to [LynxDev2](https://github.com/LynxDev2) for the base and help with making the mod
 
 # Building
 
