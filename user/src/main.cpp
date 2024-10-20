@@ -266,6 +266,5 @@ extern "C" void userMain() {
     rollspeedhook::InstallAtSymbol("_ZNK11PlayerConst23getSlopeRollingMaxSpeedEv");
     getmoonhook::InstallAtSymbol("_ZN5Shine6exeGotEv");
     walkspeedhook::InstallAtSymbol("_ZNK11PlayerConst17getNormalMaxSpeedEv");
-    nnMainHook::InstallAtSymbol("nnMain");
     ca::actorPatches();
 };
